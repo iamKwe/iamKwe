@@ -2,7 +2,7 @@
 
 **`Estudante de Analise e Desenvolvimento de Sistemas`**
 
-Me chamo Kauê, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Automação Industrial. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ESTACIO. Sou apaixonado por tecnologia e sonho desde pequeno em crescer nessa área. Procuro sempre desenvolver e aumentar meu conhecimento para me tornar um excelente profissional.
+Me chamo Kauê, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Automação Industrial. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ESTACIO. Sou apaixonado por tecnologia. Busco sempre desenvolver minhas habilidades e meu conhecimento para me tornar um excelente profissional.
 
 <p align="left">
     <a href="https://github.com/iamKwe?tab=repositories&sort=stargazers">
