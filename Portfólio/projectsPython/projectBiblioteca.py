@@ -1,6 +1,6 @@
 # Sistema de Biblioteca
 
-biblioteca = [] #Lista para armazenar os livros
+biblioteca = () #Lista para armazenar os livros
 
 def cadastrar_livro():
     titulo = input("Titulo do livro: ")
@@ -28,11 +28,11 @@ def emprestar_livro():
     listar_livros()
     escolha = int(input("Digite o número do livro para emprestar: ")) - 1
     if 0 <= escolha < len(biblioteca):
-        if biblioteca[escolha]["disponivel"]:
-            biblioteca[escolha]["disponivel"] = False
+        if biblioteca.get(escolha)["disponivel"]:
+            biblioteca.get(escolha)["disponivel"] = False
             print(f'✅ Você emprestou "{biblioteca[escolha]["titulo"]}".')
         else:
-            print("⚠️ Esse livro já está disponível.")
+            print("⚠️ Esse livro está indisponível.")
     else:
         print("Opção inválida.")
 
@@ -40,8 +40,8 @@ def devolver_livro():
     listar_livros()
     escolha = int(input("Digite o número do livro para devolver: ")) - 1
     if 0 <= escolha < len(biblioteca):
-        if biblioteca[escolha]["disponivel"]:
-            biblioteca[escolha]["disponivel"] = True
+        if not biblioteca.get(escolha)["disponivel"]:
+            biblioteca.get(escolha)["disponivel"] = True
             print(f'🔄 Você devolveu {biblioteca[escolha]["titulo"]}.')
         else:
             print("⚠️ Esse livro já está disponível.")
