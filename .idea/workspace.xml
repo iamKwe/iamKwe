@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3769b98e-bba6-46fb-bc8b-78378ae58f27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Portfólio/projectsPython/anoBissexto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Portfólio/projectsPython/projectBiblioteca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfólio/projectsPython/projectJO-KEN-PO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Portfólio/projectsPython/projectJO-KEN-PO.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.projectBiblioteca.executor": "Run",
+    "Python.projectJO-KEN-PO.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -74,10 +75,15 @@
       <workItem from="1757992000807" duration="967000" />
       <workItem from="1758065076039" duration="5419000" />
       <workItem from="1758153538505" duration="1315000" />
+      <workItem from="1760060389094" duration="1673000" />
+      <workItem from="1760064131957" duration="4975000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/iamKwe$projectJO_KEN_PO.coverage" NAME="projectJO-KEN-PO Coverage Results" MODIFIED="1760069362549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Portfólio/projectsPython" />
   </component>
 </project>

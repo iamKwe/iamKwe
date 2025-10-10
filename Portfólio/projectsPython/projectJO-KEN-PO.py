@@ -4,23 +4,28 @@ import random
 
 def iniciarJogo():
 
-    itens = ('PEDRA', 'PAPEL', 'TESOURA')
-    escolhaComputador = random.choice(itens)
+    while True:
+        itens = ('PEDRA', 'PAPEL', 'TESOURA')
 
-    print("Escolha entre [PEDRA|PAPEL|TESOURA]")
-    escolhaJogador = str(input("> "))
+        escolhaComputador = random.choice(itens)
 
-    if escolhaComputador == escolhaJogador:
-        print("Empatou!")
-    elif (escolhaComputador == "PEDRA" and escolhaJogador == "PAPEL") or (escolhaComputador == "PAPEL" and escolhaJogador == "TESOURA") or (escolhaComputador == "TESOURA" and escolhaJogador == "PEDRA"):
-        print("Voce ganhou!")
-    elif (escolhaComputador == "PEDRA" and escolhaJogador == "TESOURA") or (escolhaComputador == "TESOURA" and escolhaJogador == "PAPEL") or (escolhaComputador == "PAPEL" and escolhaJogador == "PEDRA"):
-        print("Voce perdeu!")
-    else:
-        print("Erro. Tente novamente.")
+        print("Escolha entre [PEDRA|PAPEL|TESOURA]")
+        escolhaJogador = str(input("> ").upper())
 
-    print("Jogador: ", escolhaJogador)
-    print("Computador: ", escolhaComputador)
+        if escolhaJogador in itens:
+            if escolhaComputador == escolhaJogador:
+                print("Empatou!")
+            elif (escolhaComputador == "PEDRA" and escolhaJogador == "PAPEL") or (escolhaComputador == "PAPEL" and escolhaJogador == "TESOURA") or (escolhaComputador == "TESOURA" and escolhaJogador == "PEDRA"):
+                print("Voce ganhou!")
+            elif (escolhaComputador == "PEDRA" and escolhaJogador == "TESOURA") or (escolhaComputador == "TESOURA" and escolhaJogador == "PAPEL") or (escolhaComputador == "PAPEL" and escolhaJogador == "PEDRA"):
+                print("Voce perdeu!")
+
+            print("Jogador: ", escolhaJogador)
+            print("Computador: ", escolhaComputador)
+
+        else:
+            print("Opcao invalida!")
+        break
 
 # Regras do Jogo
 
