@@ -27,6 +27,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+  </a>
 </p>
 
 ---
