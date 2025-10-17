@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/iamKwe">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=13F700&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo;Transformando+curiosidade+em+c%C3%B3digo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=13F700&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo;Transformando+curiosidade+em+c%C3%B3digo" alt="Typing SVG" />
   </a>
 </p>
 
