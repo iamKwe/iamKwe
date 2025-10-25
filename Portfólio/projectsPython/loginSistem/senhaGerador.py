@@ -28,22 +28,20 @@ def gerar_senha(tamanho=12):
         senha_lista.append(random.choice(todos_caracteres))
 
         random.shuffle(senha_lista)
-
         senha_final = "".join(senha_lista)
-
         return senha_final
 
+if __name__ == '__main__':
+    try:
+        # Pede ao usuário o tamanho da senha
+        tamanho_desejado = int(input("Qual o tamanho desejado para a senha? (Padrão é 12): ") or 12)
 
-try:
-    # Pede ao usuário o tamanho da senha
-    tamanho_desejado = int(input("Qual o tamanho desejado para a senha? (Padrão é 12): ") or 12)
+        # Gera a senha
+        senha_nova = gerar_senha(tamanho_desejado)
 
-    # Gera a senha
-    senha_nova = gerar_senha(tamanho_desejado)
+        # Exibe a senha gerada
+        print(f"\nSua nova senha segura é:")
+        print(senha_nova)
 
-    # Exibe a senha gerada
-    print(f"\nSua nova senha segura é:")
-    print(senha_nova)
-
-except ValueError:
-    print("Entrada inválida. Por favor, digite apenas um número.")
+    except ValueError:
+        print("Entrada inválida. Por favor, digite apenas um número.")
