@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3769b98e-bba6-46fb-bc8b-78378ae58f27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Portfólio/projectsPython/APIs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Portfólio/projectsPython/projectJO-KEN-PO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Portfólio/projectsPython/projectJO-KEN-PO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfólio/projectsPython/loginSistem/loginSistema.py" beforeDir="false" afterPath="$PROJECT_DIR$/Portfólio/projectsPython/loginSistem/loginSistema.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +37,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.APIs.executor": "Run",
+    "Python.loginSistema.executor": "Run",
     "Python.projectBiblioteca.executor": "Run",
     "Python.projectJO-KEN-PO.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
@@ -46,12 +51,14 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kwe\Documents\GitHub\iamKwe\Portfólio\projectsPython\loginSistem" />
       <recent name="C:\Users\Kwe\Documents\GitHub\iamKwe\Portfólio\projectsC" />
       <recent name="C:\Users\Kwe\Documents\GitHub\iamKwe\Portfólio\projectsPython" />
       <recent name="C:\Users\Kwe\Documents\GitHub\iamKwe\Portfólio" />
@@ -60,7 +67,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
         <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
       </set>
     </attachedChunks>
