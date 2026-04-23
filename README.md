@@ -1,57 +1,98 @@
-# Olá, eu sou o Kaue! 👋
+# 👨🏻‍💻 Kaue Soares
 
-<p align="center">
-  <a href="https://github.com/iamKwe">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=13F700&center=true&vCenter=true&width=500&lines=Desenvolvedor+FrontEnd; Sempre+aprendendo+algo+novo;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
-  </a>
-</p>
+**`Desenvolvedora FrontEnd`**
 
-## 🚀 Sobre Mim
-
-<p>
-  Sou fascinado por programaçao. Desde de pequeno sem tive curiosidade de como funcionava sites e jogos. Por tanto, comecei a me aprofundar nesse mundo e hoje busco viver isso.
-</p>
-
-<p>
-  Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e, em paralelo, busco conhecimento em cursos e projetos práticos. Meu foco principal tem sido aprimorar minhas habilidades em <strong>JavaScript, CSS e HTML</strong>, construindo uma base sólida para futuros desafios na área de tecnologia.
-</p>
-
----
-
-## 💻 Tecnologias & Ferramentas
+Me chamo Kaue S. Oliveira, tenho 22 anos e sou natural de Sao Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Automaçao Industrial. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ESTACIO. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn "[Kaue Soares](https://www.linkedin.com/in/iamkaue/)", onde posto meus projetos e ideias.
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
-  </a>
+    <a href="https://github.com/iamKwe?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/iamKwe?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/iamKwe?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/iamKwe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+### 🤖 Linguagens e Tecnologias
 
-<p align="center">
-  <a href="https://github.com/iamKwe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamKwe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamKwe&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</p>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
----
+<br/>
+<br/>
 
-## 📫 Conecte-se Comigo
+### 📊 Estatísticas
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/iamkaue/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:office.kauesoares@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=iamKwe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamKwe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
