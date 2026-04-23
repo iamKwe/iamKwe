@@ -2,18 +2,18 @@
 
 <p align="center">
   <a href="https://github.com/iamKwe">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=13F700&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo;Transformando+curiosidade+em+c%C3%B3digo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=13F700&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End; Sempre+aprendendo+algo+novo;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
   </a>
 </p>
 
 ## 🚀 Sobre Mim
 
 <p>
-  Tenho 21 anos e sou um entusiasta da programação, mergulhando de cabeça no universo do desenvolvimento de software. Minha curiosidade é o motor que me impulsiona a explorar novas tecnologias e a buscar soluções criativas para problemas complexos.
+  Sou fascinado por programaçao. Desde de pequeno sem tive curiosidade de como funcionava sites e jogos. Por tanto, comecei a me aprofundar nesse mundo e hoje busco viver isso.
 </p>
 
 <p>
-  Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e, em paralelo, busco conhecimento em cursos e projetos práticos. Meu foco principal tem sido aprimorar minhas habilidades em <strong>Python</strong>, construindo uma base sólida para futuros desafios na área de tecnologia.
+  Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e, em paralelo, busco conhecimento em cursos e projetos práticos. Meu foco principal tem sido aprimorar minhas habilidades em <strong>JavaScript, CSS e HTML</strong>, construindo uma base sólida para futuros desafios na área de tecnologia.
 </p>
 
 ---
